@@ -1,0 +1,14 @@
+modelo,producto,sentimiento_esperado,texto_generado,json_valido,tiempo_segundos
+llama3,Smartphone X,Positivo,"Excelente compra, el rendimiento es impresionante, la cámara es sorprendentemente buena y la batería dura todo el día. Me encanta!",True,4.14
+llama3,Laptop Pro,Neutro,"Fácil de usar, buena calidad y rendimiento aceptable. No me sorprendió especialmente por algo nuevo, pero es un buen equipo para trabajar o jugar.",True,4.55
+llama3,Auriculares Inalámbricos,Negativo,"Me han decepcionado completamente. La calidad del sonido es pobre, la conectividad inestable y el diseño feo. No justifican el precio que se paga.",True,4.83
+phi3,Smartphone X,Positivo,"{
+    ""producto"": ""Smartphone X"",
+    ""resesna"": ""La experiencia con Smartphone X ha sido impresionante. La pantalla es vibrante y la duración de la batería se mantiene a pesar del uso intensivo, proporcionando comodidad al usuario."",
+    ""sentimiento"": ""Positivo""
+}",True,10.66
+phi3,Laptop Pro,Neutro,"El Laptop Pro tiene un rendimiento estable y cumplió con mis expectativas de funcionalidad. No posee características excepcionales, pero tampoco presentó fallos significativos.",True,3.33
+phi3,Auriculares Inalámbricos,Negativo,Los auriculares siempre tienen problemas de batería y son demasiado pequeños para escuchar claramente.,True,3.18
+mistral,Smartphone X,Positivo,"Excelente rendimiento, diseño elegante y aplicaciones intuitivas. ¡Recomiendo al 100%!",True,13.97
+mistral,Laptop Pro,Neutro,"Functional performance meets modern design, yet user interface could benefit from refinement.",True,3.82
+mistral,Auriculares Inalámbricos,Negativo,"Fallo inesperado luego de un día de uso, calidad pobre y mal sonido.",True,4.28
