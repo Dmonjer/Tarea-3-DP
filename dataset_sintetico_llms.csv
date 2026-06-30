@@ -1,14 +1,477 @@
 modelo,producto,sentimiento_esperado,texto_generado,json_valido,tiempo_segundos
-llama3,Smartphone X,Positivo,"Excelente compra, el rendimiento es impresionante, la cámara es sorprendentemente buena y la batería dura todo el día. Me encanta!",True,4.14
-llama3,Laptop Pro,Neutro,"Fácil de usar, buena calidad y rendimiento aceptable. No me sorprendió especialmente por algo nuevo, pero es un buen equipo para trabajar o jugar.",True,4.55
-llama3,Auriculares Inalámbricos,Negativo,"Me han decepcionado completamente. La calidad del sonido es pobre, la conectividad inestable y el diseño feo. No justifican el precio que se paga.",True,4.83
+llama3,Smartphone X,Positivo,"Me encanta el Smartphone X, la cámara es impresionante y la velocidad de carga es rápida. El diseño es moderno y agradable al tacto. He disfrutado mucho usando este dispositivo.",True,15.35
+llama3,Laptop Pro,Neutro,"El Laptop Pro ha sido un dispositivo funcional y decentemente rápido, pero no me ha sorprendido en términos de rendimiento o diseño. La experiencia de uso ha sido estándar.",True,5.62
+llama3,Auriculares Inalámbricos,Negativo,"Me han decepcionado completamente. La calidad del sonido es pobre, la conexión inalámbrica es inestable y el diseño es incómodo. No recomiendo este producto a nadie.",True,5.97
+llama3,Smart TV 4K,Positivo,"Me encanta mi nuevo Smart TV 4K! La calidad de la imagen es impresionante, los colores son vibrantes y la nitidez es increíble. Me gusta mucho el sistema de navegación intuitivo y las opciones de streaming disponible.",True,6.19
+llama3,Consola de Videojuegos,Neutro,"La consola funciona correctamente, el diseño es atractivo y la variedad de juegos disponible es buena. No tengo observaciones ni sentimientos particularmente positivos o negativos.",True,5.56
+llama3,Smartphone X,Negativo,"Desastroso. Pantalla que se congestiona, batería que no dura un día y sistema operativo lento. Me siento engañado por la publicidad. No recomiendo.",True,5.49
+llama3,Laptop Pro,Positivo,Me encanta mi nuevo Laptop Pro! La pantalla es brillante y la capacidad de procesamiento es impresionante. El diseño es elegante y la batería dura mucho tiempo. Es un producto excelente.,True,5.61
+llama3,Auriculares Inalámbricos,Neutro,"El sonido es aceptable, la conectividad inalámbrica funciona sin problemas. La construcción parece robusta y comoda en el oído. No he notado errores significativos.",True,5.8
+llama3,Smart TV 4K,Negativo,"Me ha decepcionado completamente. La calidad de la imagen es pobre, los colores no son precisos y el sonido es débil. Me siento estafado después de pagar tanto dinero.",True,5.61
+llama3,Consola de Videojuegos,Positivo,"Me encanta! La consola es rápida, las gráficos son impresionantes y los juegos son emocionantes. He pasado horas jugando sin parar.",True,5.43
+llama3,Smartphone X,Neutro,"El dispositivo tiene una buena resistencia al agua y la cámara es decente, pero no me ha impresionado especialmente en términos de rendimiento o diseño.",True,5.24
+llama3,Laptop Pro,Negativo,"Estoy desesperado con este laptop, el procesador es lentísimo y la batería no dura más allá de 2 horas. La pantalla también es muy débil y no puedo ver nada en condiciones de iluminación normal.",True,5.87
+llama3,Auriculares Inalámbricos,Positivo,"Me encantan! Los auriculares son cómodos, la calidad del audio es excelente y la conexión inalámbrica es estable. He pasado horas escuchando música sin problemas.",True,5.69
+llama3,Smart TV 4K,Neutro,"El Smart TV 4K ha funcionado correctamente sin problemas notables. La calidad de la imagen es buena, pero no impresiona notablemente en comparación con mis expectativas. No tengo nada que reprochar, pero tampoco hay algo que destacar especialmente.",True,5.97
+llama3,Consola de Videojuegos,Negativo,"La consola es un desastre. La velocidad de carga de juegos es lenta, la controller se desincroniza constantemente y los gráficos son pobres en comparación con otras consolas del mismo rango. No recomendable.",True,6.0
+llama3,Smartphone X,Positivo,Me encanta mi nuevo Smartphone X. La pantalla es brillante y el procesador es rápido. La cámara toma fotos increíbles y la batería dura todo el día.,True,5.32
+llama3,Laptop Pro,Neutro,"El equipo funcionó de manera estable y sin problemas durante mi experiencia inicial. La pantalla es clara, el procesador es rápido y la batería dura lo suficiente para una jornada laboral. No hay características que me sorprendan o me desagraden.",True,6.17
+llama3,Auriculares Inalámbricos,Negativo,Muy decepcionados con la calidad. Los auriculares se desincronizan constantemente y el sonido es débil y ruidoso. No recomiendo este producto a nadie.,True,5.6
+llama3,Smart TV 4K,Positivo,"Me encanta mi nueva Smart TV 4K, la calidad de la imagen es impresionante y la variedad de funciones es increíble. He disfrutado mucho viendo mis programas favoritos en 4K y el sonido es superlativo.",True,6.12
+llama3,Consola de Videojuegos,Neutro,"La experiencia fue moderada, la consola funcionó correctamente y los controles respondieron bien. No encontré características o funciones novedosas, pero cumple con sus propósitos básicos.",True,5.61
+llama3,Smartphone X,Negativo,"Estoy absolutamente decepcionado con este teléfono. La pantalla es pobre, la cámara es mediocre y el sistema operativo es lento y lleno de bugs. No valió la pena el dinero.",True,5.59
+llama3,Laptop Pro,Positivo,Me encanta mi nuevo Laptop Pro. La pantalla es brillante y el procesador es rápido. Me ha sido fácil de usar y tiene una batería muy duradera.,True,5.16
+llama3,Auriculares Inalámbricos,Neutro,"Los auriculares funcionan correctamente, la conexión inalámbrica es estable y el sonido es claro. No hay características que destacen especialmente, pero no hay nada que desagrade tampoco.",True,5.81
+llama3,Smart TV 4K,Negativo,"Me he desesperado con este producto. La calidad de la imagen es pésima, los colores no son precisos y el sonido es débil. He pasado más tiempo intentando ajustar las configuraciones que disfrutando del contenido.",True,5.84
+llama3,Consola de Videojuegos,Positivo,Me encanta! La consola es increíblemente rápida y los gráficos son impresionantes. He pasado horas jugando a mis juegos favoritos sin problemas y estoy emocionado de explorar todo lo que tiene que ofrecer.,True,6.08
+llama3,Smartphone X,Neutro,"El Smartphone X es un dispositivo sólido que cumple con mis expectativas de rendimiento y durabilidad. La pantalla es clara, la cámara es decente y el sistema operativo funciona sin problemas.",True,5.46
+llama3,Laptop Pro,Negativo,"La experiencia de uso ha sido un desastre. El procesador es lento, la pantalla está defectuosa y el sistema operativo es inestable. No recomendaría este producto a nadie.",True,5.54
+llama3,Auriculares Inalámbricos,Positivo,"Me encantan! Excelente calidad de sonido, comodidad al máximo y diseño minimalista. He pasado horas escuchando música sin sentirme cansado ni con dolor en las orejas. ¡Absolutamente recomendados!",True,6.16
+llama3,Smart TV 4K,Neutro,"El rendimiento es decente, la calidad de imagen es aceptable, pero no impresiona. La interfaz es intuitiva y fácil de usar. No hay características revolucionarias, pero cumple con lo prometido.",True,5.82
+llama3,Consola de Videojuegos,Negativo,"Estoy absolutamente desilusionado con esta consola. La carga del juego es lenta, los controles son inexactos y la interfaz es confusa. No valoro el dinero que invirti en ella.",True,5.75
+llama3,Smartphone X,Positivo,"Me encanta el Smartphone X, la cámara es impresionante y la velocidad de carga es rápida. La pantalla es muy brillante y el diseño es minimalista pero elegante.",True,5.39
+llama3,Laptop Pro,Neutro,"El rendimiento es decente, la pantalla es clara pero no impresionante. La batería dura alrededor de 6 horas, lo que es aceptable. No hay características especialmente destacadas, pero tampoco hay nada que te desagrade.",True,6.17
+llama3,Auriculares Inalámbricos,Negativo,"Son un desastre, la calidad es muy baja, el sonido es pobre y distorsiona, la conectividad inestable, he tenido que reintentar varias veces para que funcionen. No merecen el precio que se paga.",True,6.28
+llama3,Smart TV 4K,Positivo,"Me encanta mi nuevo Smart TV 4K, la calidad de imagen es increíble y el diseño es moderno y elegante. La navegación es fácil y rápido, lo que hace que sea un verdadero placer ver mis películas favoritas en alta definición.",True,6.26
+llama3,Consola de Videojuegos,Neutro,"La consola funciona correctamente, sin sorpresas ni fallas notables. La calidad de los gráficos y el sonido es satisfactoria, pero no impresiona en especial.",True,5.54
+llama3,Smartphone X,Negativo,"Desapontado con el rendimiento lento, la batería de corta duración y la cámara mediocre. La interfaz es confusa y no hay opciones personalizadas.",True,5.28
+llama3,Laptop Pro,Positivo,"Excelente experiencia de uso, el procesador es rápido y eficiente, la pantalla es brillante y clarita, y el teclado es comodo y preciso. Me siento muy satisfecho con mi compra.",True,5.63
+llama3,Auriculares Inalámbricos,Neutro,"{
+""producto"": ""Auriculares Inalámbricos"",
+""reseña"": ""El sonido es claro y estable, pero no impresiona. La construcción es buena pero no especialmente resistente. Funcionan bien sin problemas de conectividad."",
+""sentimiento"": ""Neutro""
+}",True,5.33
+llama3,Smart TV 4K,Negativo,"Me ha decepcionado completamente. La calidad de la imagen es mediocre, el sistema de navegación es lento y confuso, y no hay opciones personalizables para ajustar la configuración. ¡Estoy muy descontento!",True,5.9
+llama3,Consola de Videojuegos,Positivo,"Me encanta la calidad y velocidad de procesamiento de esta consola, los gráficos son impresionantes y el control es preciso. He pasado horas jugando sin parar!",True,5.51
+llama3,Smartphone X,Neutro,"El dispositivo funciona correctamente, no tengo problemas con el rendimiento o la batería. La cámara es decente y el diseño es agradable. No hay características que me sorprendan positivamente ni negativamente.",True,5.56
+llama3,Laptop Pro,Negativo,"El rendimiento es lento, el sistema operativo se congeló varias veces y la pantalla tiene una resolución pobre. La batería dura apenas un día y medio. Me siento estafado con este producto.",True,5.64
+llama3,Auriculares Inalámbricos,Positivo,"Me encantan estos auriculares! La calidad del sonido es increíble, la conexión inalámbrica es rápida y estable. Muy cómodos de usar durante largas horas. ¡Muy recomendable!",True,6.05
+llama3,Smart TV 4K,Neutro,"El Smart TV 4K tiene una buena calidad de imagen y sonido, pero no impresiona especialmente. La interfaz es sencilla y fácil de usar, aunque no está llena de características innovadoras.",True,5.68
+llama3,Consola de Videojuegos,Negativo,"La verdad es que estoy muy decepcionado con esta consola. Los controles son inexactos, los gráficos son mediocres y no he podido jugar a mis juegos favoritos porque el sistema operativo es un caos.",True,5.82
+llama3,Smartphone X,Positivo,Me encanta mi nuevo Smartphone X! La pantalla es brillante y los detalles son impresionantes. El rendimiento es rápido y la cámara toma fotos increíbles. ¡Es un dispositivo emocionante!,True,5.64
+llama3,Laptop Pro,Neutro,"El laptop tiene una buena pantalla y un procesador rápido. La batería dura todo el día, pero la tecla de espacio es un poco pequeña.",True,5.08
+llama3,Auriculares Inalámbricos,Negativo,Terrible experiencia. Son muy inestables y se desconectan constantemente. La calidad del audio es pobre y los micrófonos no capturan bien mi voz.,True,5.56
+llama3,Smart TV 4K,Positivo,"Me encanta mi nuevo Smart TV 4K, la calidad de la imagen es impresionante y la conectividad a internet es rápida. La experiencia de uso es muy intuitiva y me he vuelto adicto a ver series y películas en esta pantalla",True,6.16
+llama3,Consola de Videojuegos,Neutro,"La consola es decente, no hay nada que me sorprenda positiva o negativamente. El rendimiento es acceptable y la interfaz es clara. No tengo más que decir.",True,5.6
+llama3,Smartphone X,Negativo,"Muy desilusionado con mi compra. El cámara es pésimo, la batería no dura más de un día y el sistema operativo es lento. Valor MONEY no está",True,5.53
+llama3,Laptop Pro,Positivo,"Estoy impresionado con la velocidad y potencia de este laptop, perfecto para mis necesidades diarias. La pantalla es brillante y el diseño es sencillo pero elegante. Totalmente recomendable.",True,5.73
+llama3,Auriculares Inalámbricos,Neutro,"{
+""producto"": ""Auriculares Inalámbricos"",
+""reseña"": ""El sonido es claro y los auriculares se ajustan bien al oído. No he experimentado problemas con la conexión inalámbrica ni la batería dura lo suficiente."",
+""sentimiento"": ""Neutro""
+}",True,5.71
+llama3,Smart TV 4K,Negativo,"Muy decepcionado con mi compra. La calidad de la imagen es pobre, los colores no son precisos y la respuesta al tacto es lenta. Además, el sistema operativo es confuso y con errores. No recomiendo este producto.",True,5.92
+llama3,Consola de Videojuegos,Positivo,"Me encanta la calidad y rapidez de los gráficos, así como la variedad de juegos disponibles. La experiencia de juego es intuitiva y agradable. ¡Vale la pena el precio!",True,5.71
+llama3,Smartphone X,Neutro,"Funciona correctamente, no tengo nada especial que destacar o criticar. Es un teléfono común con características estándar.",True,4.97
+llama3,Laptop Pro,Negativo,"Desastroso, el procesador es lento, la pantalla es brumosa y el touchpad es inestable. ¡Me siento engañado!",True,5.07
+llama3,Auriculares Inalámbricos,Positivo,"{
+    ""producto"": ""Auriculares Inalámbricos"",
+    ""reseña"": ""Me encantaron estos auriculares inalámbricos, la calidad del sonido es excelente y el diseño es muy cómodo. Lo mejor es que puedo usarlos sin cables, lo que me da una libertad total para moverme mientras escucho música."",
+    ""sentimiento"": ""Positivo""
+}",True,6.41
+llama3,Smart TV 4K,Neutro,"El Smart TV 4K funciona correctamente, ofreciendo una calidad de imagen decente y un sistema operativo intuitivo. La conectividad es buena, pero no hay nada que me sorprenda especialmente.",True,5.66
+llama3,Consola de Videojuegos,Negativo,"Me ha decepcionado profundamente. La consola se colgó varias veces durante mi primer juego, y los controles son muy inprecisos. No valoro el dinero que gasté en ella.",True,5.7
+llama3,Smartphone X,Positivo,"Me encanta mi nuevo Smartphone X. La cámara es impresionante, la pantalla es brillante y el rendimiento es rápido. ¡Es un dispositivo impresionante!",True,5.34
+llama3,Laptop Pro,Neutro,"El Laptop Pro es un dispositivo decente. La pantalla es clara, el procesador es rápido y la batería dura lo suficiente para una jornada laboral. Sin embargo, no me parece especialmente destacable en ninguno de sus aspectos.",True,5.95
+llama3,Auriculares Inalámbricos,Negativo,"Estoy desesperado con este producto. La calidad del sonido es pésima, la conexión inalámbrica es intermitente y el diseño es feo. No recomiendo a nadie comprar esto.",True,5.96
+llama3,Smart TV 4K,Positivo,"Me encanta mi nuevo Smart TV 4K, la calidad de la imagen es impresionante y el diseño es moderno y elegante. La navegación es intuitiva y los contenidos en streaming funcionan perfectamente.",True,5.87
+llama3,Consola de Videojuegos,Neutro,"La consola es decente, cumple con las expectativas, pero no destaca en nada. La jugabilidad es media, la gráfica es suficiente y el precio es razonable.",True,5.7
+llama3,Smartphone X,Negativo,"Me decepcionó profundamente, la autonomía del batería es lamentable y el sistema operativo es lento y muy incómodo de usar. No valió la pena el dinero que pagué.",True,5.49
+llama3,Laptop Pro,Positivo,"Me encanta mi nuevo Laptop Pro. La pantalla es increíblemente brillante y claro, el procesador es rápido y eficiente. El diseño es ergonómico y la batería dura mucho tiempo.",True,5.62
+llama3,Auriculares Inalámbricos,Neutro,"Funcionan correctamente, la calidad del sonido es decente. No me han sorprendido particularmente por nada bueno ni malo.",True,5.3
+llama3,Smart TV 4K,Negativo,"Me ha costado una fortuna y es tan lento que parece un antiguo PDA. La calidad de la imagen es buena, pero no vale la pena con este rendimiento.",True,5.34
+llama3,Consola de Videojuegos,Positivo,"Me encanta mi nueva consola! La jugabilidad es increíble, los gráficos son impresionantes y la variedad de juegos disponibles es simplemente fenomenal. Estoy absorto en esta maravilla tecnológica!",True,6.0
+llama3,Smartphone X,Neutro,"El teléfono es capaz de realizar todas sus funciones sin problemas, pero no me parece especialmente destacable en ningún sentido. La calidad es buena, pero no hay nada que lo haga sobresalir en la competencia.",True,5.8
+llama3,Laptop Pro,Negativo,Este laptop es un desastre. La pantalla se cayó después de solo 3 horas de uso y el procesador es tan lento que parece como si estuviera en pausa. Estoy muy decepcionado.,True,5.77
+llama3,Auriculares Inalámbricos,Positivo,"{
+    ""producto"": ""Auriculares Inalámbricos"",
+    ""reseña"": ""Me encantan! Los auriculares son cómodos, tienen una calidad de audio excelente y la conexión inalámbrica es estable. He podido escuchar música sin interrupciones durante horas."",
+    ""sentimiento"": ""Positivo""
+}",True,5.91
+llama3,Smart TV 4K,Neutro,"El equipo funciona correctamente, sin sorpresas positivas ni negativas. La calidad de la imagen es buena, pero no impresionante. La interfaz es fácil de usar, pero no innovadora.",True,5.68
+llama3,Consola de Videojuegos,Negativo,"Me arrepiento de haber gastado tanto dinero en esta pieza de basura. La imagen es pobre, los controles son inexactos y el hardware se colapsa con facilidad. No recomendaría esto a mi peor enemigo.",True,6.15
+llama3,Smartphone X,Positivo,Estoy impresionado con la velocidad y capacidad de este dispositivo. La cámara es excelente y el diseño es sleek y moderno. Me encanta el sistema operativo y la batería dura todo el día.,True,5.73
+llama3,Laptop Pro,Neutro,"El Laptop Pro ha sido un dispositivo funcional y efectivo. La pantalla es clara, el procesador es rápido y la batería dura considerablemente. Sin embargo, no hay características que me hagan sentir que estoy utilizando algo fuera de lo común.",True,6.11
+llama3,Auriculares Inalámbricos,Negativo,"{
+""producto"": ""Auriculares Inalámbricos"",
+""reseña"": ""No funcionan bien, la conexión inalámbrica es intermitente y el sonido es débil. No vale lo que pagan."",
+""sentimiento"": ""Negativo""
+}",True,5.19
+llama3,Smart TV 4K,Positivo,"Me encanta mi nuevo Smart TV 4K! La calidad de la imagen es impresionante, el sonido es crystal clear y la interfaz es fácil de usar. ¡Me siento como estoy viendo el futuro!",True,5.85
+llama3,Consola de Videojuegos,Neutro,"La consola funciona correctamente y ofrece una variedad de juegos interesantes. La interfaz es clara y fácil de usar, pero no hay características que me sorprendan particularmente.",True,5.51
+llama3,Smartphone X,Negativo,"Muy decepcionado con mi experiencia. La batería dura apenas un día, la cámara es pésima y el sistema operativo es lento y lleno de bugs. No recomiendo este modelo a nadie.",True,5.77
+llama3,Laptop Pro,Positivo,"Me encanta mi nuevo Laptop Pro, es increíblemente rápido y el rendimiento es impresionante. La pantalla es brillante y la batería dura mucho más de lo que esperaba.",True,5.6
+llama3,Auriculares Inalámbricos,Neutro,"{
+""producto"": ""Auriculares Inalámbricos"",
+""reseña"": ""Funcionan correctamente, la calidad del sonido es decente y el diseño es agradable. No tengo nada que objetar en cuanto a su rendimiento, pero tampoco hay algo que los haga sobresalir."",
+""sentimiento"": ""Neutro""
+}",True,5.84
+llama3,Smart TV 4K,Negativo,"Desastroso. La calidad de la imagen es pésima, con un rendimiento lento y constantes problemas de conexión. No vale lo que cuesta.",True,5.24
+llama3,Consola de Videojuegos,Positivo,Me encanta la Consola de Videojuegos! La velocidad de carga es impresionante y los gráficos son increíbles. El controlador es cómodo y fácil de usar. He pasado horas jugando sin parar.,True,5.96
+llama3,Smartphone X,Neutro,"El dispositivo funciona correctamente, con una buena calidad de pantalla y un rendimiento adecuado para mis necesidades. No tengo nada que destacar ni criticar en particular.",True,5.24
+llama3,Laptop Pro,Negativo,He sido muy desilusionado con este producto. La pantalla es tan débil que ya está fallando después de solo un mes y el procesador es lento en comparación con otros laptops en el mismo rango de precios.,True,5.72
+llama3,Auriculares Inalámbricos,Positivo,"Me encantan! La calidad del sonido es impresionante, la comodidad es óptima y la autonomía de batería es sorprendente. Perfectos para mis sesiones de entrenamiento o simplemente relajarme con música.",True,6.08
+llama3,Smart TV 4K,Neutro,"Funciona correctamente, imagen clara y definida. No hay características revolucionarias, pero es un producto básico y confiable.",True,5.05
+llama3,Consola de Videojuegos,Negativo,"Desastroso. La consola es lenta, los controles son incómodos y la selección de juegos es pobre. No vale la pena el dinero.",True,5.36
+llama3,Smartphone X,Positivo,"Me encanta mi nuevo Smartphone X! La pantalla es brillante, el procesador es rápido y la cámara es impresionante. Me siento muy orgulloso de haberlo elegido.",True,5.47
+llama3,Laptop Pro,Neutro,"El Laptop Pro se siente como un producto estable y confiable. No me ha sorprendido positivamente ni negativamente, simplemente es un dispositivo que cumple con lo prometido.",True,5.48
+llama3,Auriculares Inalámbricos,Negativo,"Muy desapontado con este producto. La calidad del sonido es pobre, la conexión Wi-Fi es inestable y el diseño es feo. No valen el dinero que pagué.",True,5.76
+llama3,Smart TV 4K,Positivo,"Me encanta mi nuevo Smart TV 4K. La imagen es increíblemente clara y detallada, y la respuesta de los comandos por voz es rápida y precisa. Me siento como si estuviera viendo el mundo en un nuevo nivel.",True,6.26
+llama3,Consola de Videojuegos,Neutro,"La consola funcionó correctamente, sin sorpresas positivas ni negativas. Me permite jugar a juegos que quería probar, pero no me hace sentir nada especial.",True,5.3
+llama3,Smartphone X,Negativo,Lo único que puedo decir es que es un completo desastre. La pantalla se rompió después de una semana y el sistema operativo es lento y bugui. No merece la pena el dinero.,True,5.63
+llama3,Laptop Pro,Positivo,"Me encanta mi nuevo Laptop Pro! La velocidad y el rendimiento son impresionantes, la pantalla es brillante y el diseño es sencillo pero atractivo. Me siento muy cómodo usando este dispositivo.",True,5.65
+llama3,Auriculares Inalámbricos,Neutro,"El sonido es claro y los auriculares están cómodos. No tengo quejas sobre la calidad de construcción, pero tampoco estoy impresionado con nada en particular.",True,5.63
+llama3,Smart TV 4K,Negativo,"Me ha decepcionado completamente. La calidad de la imagen es pobre, las conexiones son lentas y el sistema operativo es un desastre. He perdido todo el dinero que pagué por este producto.",True,5.75
+llama3,Consola de Videojuegos,Positivo,"Me encanta mi nueva consola, es tan fácil de usar y tiene una variedad impresionante de juegos. Me divierto mucho jugando con mis amigos y familiarizados. La calidad de los gráficos y la música es impresionante.",True,6.12
+phi3,Smartphone X,Positivo,"La experiencia de comprar Smartphone X fue excelente. El precio era competitivo y el dispositivo es increíblemente rápido, con una batería impresionante que puede durar todo un día sin necesidad de cargarlo.",True,10.14
+phi3,Laptop Pro,Neutro,"El Laptop Pro tiene un desempeño sustancial en términos de velocidad y gráficos, pero carece del acabado refinado esperado para un producto premium.",True,3.3
+phi3,Auriculares Inalámbricos,Negativo,Los auriculares son pésimos. No puedo escuchar claramente y siempre se pierden la banda.,True,3.12
+phi3,Smart TV 4K,Positivo,"{
+    ""producto"": ""Smart TV 4K"",
+    ""reseña"": ""La calidad de imagen y sonido es incomparable, el menú intuitivo facilita navegar por todas las funciones disponibles. La experiencia visual ha sido revolucionaria para mi hogar."",
+    ""sentimiento"": ""Positivo""
+}",True,3.39
+phi3,Consola de Videojuegos,Neutro,La experiencia con la consola ha sido satisfactoria. El rendimiento es consistente y las opciones disponibles son diversas.,True,3.15
+phi3,Smartphone X,Negativo,"{
+    ""producto"": ""Smartphone X"",
+    ""resesna"": ""El Smartphone X se desempeñó terriblemente desde el día uno. La batería no dura más de unas horas y la pantalla es difícil de leer bajo la luz del sol."",
+    ""sentimiento"": ""Negativo""
+}",True,3.39
+phi3,Laptop Pro,Positivo,"La experiencia de uso fue sin parangón. El rendimiento es excepcional, con una duración prolongada y un sistema gráfico que mantiene el flujo durante la reproducción.",True,3.26
+phi3,Auriculares Inalámbricos,Neutro,Los auriculares funcionan adecuadamente. El volumen es ajustable y el sonido no se distorsiona.,True,3.14
+phi3,Smart TV 4K,Negativo,"Desafortunadamente, la batería es extremadamente débil y el televisor se apaga frecuentemente. Además, los tempos de reproducción son inconsistentes.",True,3.27
+phi3,Consola de Videojuegos,Positivo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""resesna"": ""Disfruté cada momento desde el primer sonido hasta la última partida. La duración es impresionante y los gráficos vibrantes hacen que cada juego sea un viaje sin igual."",
+    ""sentimiento"": ""Positivo""
+}",True,3.32
+phi3,Smartphone X,Neutro,"La interfaz de usuario es conveniente y la batería cubre bastante tiempo. Sin embargo, el rendimiento bajo uso intenso puede no ser lo mejor.",True,3.22
+phi3,Laptop Pro,Negativo,"Frustrantemente, el Laptop Pro se descomprimió constantemente y su pantalla era difusa. No puedo recomendarlo a nadie.",True,3.16
+phi3,Auriculares Inalámbricos,Positivo,"Los auriculares inalámbricos son una maravilla para mi audición. Su calidad de sonido es impresionante y la portabilidad es excelente, lo cual los hace ideales para escuchar música en cualquier lugar.",True,3.46
+phi3,Smart TV 4K,Neutro,"La experiencia de uso ha sido satisfactoria en términos del rendimiento y la calidad visual. El tamaño es apropiado para el espacio, aunque no fue más que una simple elección entre opciones.",True,3.37
+phi3,Consola de Videojuegos,Negativo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""resesena"": ""La consola es excesivamente cara y su calidad de juego es mediocre. Vengo con altas expectativas que se vieron decepcionadas."",
+    ""sentimiento"": ""Negativo""
+}",True,3.25
+phi3,Smartphone X,Positivo,"Esta es mi nueva joya. El rendimiento y la calidad de pantalla son impresionantes, fácilmente superan mis expectativas alentadoras.",True,3.21
+phi3,Laptop Pro,Neutro,"{
+    ""producto"": ""Laptop Pro"",
+    ""reseña"": ""El Laptop Pro es fácil de usar y la pantalla tiene una alta resolución. El peso del portátil no es un problema para mi, ya que siempre lo llevo consigo."",
+    ""sentimiento"": ""Neutro""
+}",True,3.29
+phi3,Auriculares Inalámbricos,Negativo,"Los auriculares inalámbricos son sumamente frustrantes, no logro mantener la conexión y su calidad de audio es terrible.",True,3.21
+phi3,Smart TV 4K,Positivo,"La calidad de imagen del Smart TV 4K es excepcional, con detalles nítidos y un amplio rango dinámico que me ha permitido disfrutar películas al ritmo perfecto. Su navegación inteligente facilita la búsqueda rápida de contenido, lo cual hace el dispositivo realmente versátil para mi hogar.",True,3.93
+phi3,Consola de Videojuegos,Neutro,"La consola funciona bien, presenta una experiencia gráfica promedio y no ofrece mucha diversidad en juegos.",True,3.1
+phi3,Smartphone X,Negativo,"{
+    ""producto"": ""Smartphone X"",
+    ""reseña"": ""El Smartphone X ha sido un fracaso desde el principio. El panel de pantalla se queda oscurecido constantemente bajo la luz del sol, y los cargos son extremadamente lentos."",
+    ""sentimiento"": ""Negativo""
+}",True,3.36
+phi3,Laptop Pro,Positivo,"{
+    ""producto"": ""Laptop Pro"",
+    ""reseña"": ""Elegante y rápido, el Láptops Pro es una maravilla de tecnología en la portabilidad. La duración de la batería me ha permitido trabajar sin interrupciones durante días completos."",
+    ""sentimiento"": ""Positivo""
+}",True,3.39
+phi3,Auriculares Inalámbricos,Neutro,"Los auriculares inalámbricos cumplen su función básica. La calidad del sonido es aceptable, aunque no excesivamente vibrante.",True,3.3
+phi3,Smart TV 4K,Negativo,"Frustrado con el Smart TV 4K, ya que la interfaz es complicada y difícil de navegar. Además, los tiempos de carga son excesivamente largos para videos en alta definición.",True,3.42
+phi3,Consola de Videojuegos,Positivo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""resesina"": ""La calidad impresionante y la durabilidad han dejado sin aliento mi expectativa. A menudo, los videojuegos en casa."",
+    ""sentimiento"": ""Positivo""
+}",True,3.2
+phi3,Smartphone X,Neutro,"{
+    ""producto"": ""Smartphone X"",
+    ""resesna"": ""El Smartphone X se desbloquea sin problemas y tiene una pantalla clara. El rendimiento es regular, funciona bien para llamar y navegar por internet."",
+    ""sentimiento"": ""Neutro""
+}",True,3.23
+phi3,Laptop Pro,Negativo,El Laptop Pro ha tenido un rendimiento aburridamente bajo y su batería caduca rápidamente. No recomendaría este producto a nadie.,True,3.2
+phi3,Auriculares Inalámbricos,Positivo,"Los auriculares inalámbricos son increíbles en funcionalidad y calidad de sonido. Son muy fáciles de usar, liberando a mis manos para otras actividades.",True,3.33
+phi3,Smart TV 4K,Neutro,"El Smart TV 4K es cómodo de usar y ofrece una variedad de aplicaciones. Sin embargo, las pantallas ocasionalmente tienen imágenes borrosas.",True,3.27
+phi3,Consola de Videojuegos,Negativo,"Despilfarro el dinero en esta consola, que no logró ofrecer un buen rendimiento. La vida útil es corta y los juegos son repetitivos.",True,3.27
+phi3,Smartphone X,Positivo,"La experiencia con el Smartphone X ha sido maravillosa. La cámara ofrece una imagen claramente nítida, la batería dura todo un día y su velocidad de respuesta es increíble.",True,3.38
+phi3,Laptop Pro,Neutro,El Laptop Pro es una computadora portátil que cumple con mis necesidades. El rendimiento es sólido y el diseño del teclado me ha gustado.,True,3.23
+phi3,Auriculares Inalámbricos,Negativo,"Desconozco cómo puedo decirlo mejor, pero estos auriculares son una pesadilla de descarga frecuentes y baja calidad en la reproducción del audio. Un falla completa que me ha hecho perder horas de música.",True,3.5
+phi3,Smart TV 4K,Positivo,"{
+   ""producto"": ""Smart TV 4K"",
+   ""resesna"": ""La calidad impresionante y la experiencia de usuario del Smart TV 4K han sido excepcionales. Su claridad, rendimiento rápido y compatibilidad con dispositivos domésticos hicieron que mis padres se quedaran asombrados."",
+   ""sentimento"": ""Positivo""
+}",True,3.5
+phi3,Consola de Videojuegos,Neutro,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""resesna"": ""La consola tiene una buena variedad de juegos y funciona correctamente, pero la duración del encendido es algo limitada."",
+    ""sentimiento"": ""Neutro""
+}",True,3.17
+phi3,Smartphone X,Negativo,"{
+    ""producto"": ""Smartphone X"",
+    ""resesina"": ""El Smartphone X es un completo fiasco. Cabe que, a pesar de su aparente sofisticación, presenta numerosos problemas desde el primer uso; la pantalla se queda congelada constantemente y las actualizaciones son lentas e ineficientes."",
+    ""sentimiento"": ""Negativo""
+}",True,3.55
+phi3,Laptop Pro,Positivo,"{
+    ""producto"": ""Laptop Pro"",
+    ""reseña"": ""Esta experiencia me ha dejado muy satisfecho. El rendimiento es impresionante, la durabilidad del material y el diseño elegante son simplemente excepcionales."",
+    ""sentido"": ""Positivo""
+}",True,3.31
+phi3,Auriculares Inalámbricos,Neutro,Los auriculares son cómodos y de buena calidad. Son fáciles de usar con su tecnología Bluetooth.,True,3.14
+phi3,Smart TV 4K,Negativo,"{
+    ""producto"": ""Smart TV 4K"",
+    ""reseina"": ""La reproducción del televisor es muy lenta y los menús no son intuitivos. Además, el brillo parece inadecuado para las imágenes en alta definición."",
+    ""sentimiento"": ""Negativo""
+}",True,3.31
+phi3,Consola de Videojuegos,Positivo,"{
+  ""producto"": ""Consola de Videojuegos"",
+  ""resesina"": ""La experiencia con la nueva consola ha sido increíble. La jugabilidad es excepcional, los gráficos son vibrantes y el rendimiento no tiene precedentes."",
+  ""sentimiento"": ""Positivo""
+}",True,3.29
+phi3,Smartphone X,Neutro,El Smartphone X es una actualización razonable del anterior modelo. Proporciona características básicas como se esperaría y funciona cómodamente para mis necesidades.,True,3.24
+phi3,Laptop Pro,Negativo,"{
+    ""producto"": ""Laptop Pro"",
+    ""resesiñ"": ""El Laptop Pro se inundó en solo un año, lo que hizo imposible su uso. Su pantalla es poco clara y el sistema operativo siempre está lento."",
+    ""sentimiento"": ""Negativo""
+}",True,3.26
+phi3,Auriculares Inalámbricos,Positivo,Los auriculares son inolvidables por su calidad de sonido y cómoda forma. Son excelentes para mi viaje.,True,3.17
+phi3,Smart TV 4K,Neutro,"La experiencia fue satisfactoria; el televisor reproduce con claridad y su pantalla de alta definición es impresionante. Sin embargo, no se destacan aspectos que lo diferencie significativamente del mercado.",True,3.43
+phi3,Consola de Videojuegos,Negativo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""reseña"": ""La calidad del sonido es terrible, los gráficos anticuados y la consola tiene un rendimiento lento que me ha dejado frustrado. No recomendaría este producto a nadie."",
+    ""sentimiento"": ""Negativo""
+}",True,3.37
 phi3,Smartphone X,Positivo,"{
     ""producto"": ""Smartphone X"",
-    ""resesna"": ""La experiencia con Smartphone X ha sido impresionante. La pantalla es vibrante y la duración de la batería se mantiene a pesar del uso intensivo, proporcionando comodidad al usuario."",
+    ""resesina"": ""Disfruto completamente de mi Smartphone X. El rendimiento es impresionante, la cámara fotográfica captura las maravillas del mundo con detalle, y el diseño premium me mantiene encantado cada vez que lo sostengo."",
     ""sentimiento"": ""Positivo""
-}",True,10.66
-phi3,Laptop Pro,Neutro,"El Laptop Pro tiene un rendimiento estable y cumplió con mis expectativas de funcionalidad. No posee características excepcionales, pero tampoco presentó fallos significativos.",True,3.33
-phi3,Auriculares Inalámbricos,Negativo,Los auriculares siempre tienen problemas de batería y son demasiado pequeños para escuchar claramente.,True,3.18
-mistral,Smartphone X,Positivo,"Excelente rendimiento, diseño elegante y aplicaciones intuitivas. ¡Recomiendo al 100%!",True,13.97
-mistral,Laptop Pro,Neutro,"Functional performance meets modern design, yet user interface could benefit from refinement.",True,3.82
-mistral,Auriculares Inalámbricos,Negativo,"Fallo inesperado luego de un día de uso, calidad pobre y mal sonido.",True,4.28
+}",True,3.47
+phi3,Laptop Pro,Neutro,"El Laptop Pro es adecuado para mis necesidades de trabajo, ofrece una tasa de procesamiento lo suficientemente rápida y un período de uso confortable.",True,3.24
+phi3,Auriculares Inalámbricos,Negativo,"Los auriculares inalámbricos tienen una conectividad pobre y son extremadamente frágiles. Un simple movimiento me causa caerlos constantemente, resultando en ruidos de golpe cuando se desprenden.",True,3.43
+phi3,Smart TV 4K,Positivo,"La calidad impresionante y la interfaz intuitiva hacen que el uso sea una experiencia sin igual. La batería dura toda la noche, ideal para mis viajes de verano.",True,3.33
+phi3,Consola de Videojuegos,Neutro,"La consola es funcional y los juegos están disponibles. Sin embargo, el diseño no es lo que esperaba.",True,3.09
+phi3,Smartphone X,Negativo,"El Smartphone X se desempeñó terriblemente, la batería no dura más de un día y el teléfono se cuelga constantemente. La pantalla también es frágil, por lo que me preocupa usarla con seguridad.",True,3.52
+phi3,Laptop Pro,Positivo,"{
+    ""producto"": ""Laptop Pro"",
+    ""reseña"": ""La experiencia con el Laptop Pro ha sido impresionante. Su rendimiento es rápido, su pantalla de alta calidad me permite trabajar por largos periodos sin fatiga visual y las especificaciones avanzadas lo garantizan para tareas exigentes."",
+    ""sentimiento"": ""Positivo""
+}",True,3.56
+phi3,Auriculares Inalámbricos,Neutro,"Los auriculares son cómodos y de alta calidad. El diseño es práctico, pero no excede los precios esperados.",True,3.2
+phi3,Smart TV 4K,Negativo,El Smart TV 4K no entregó las expectativas. La calidad de imagen es promedio y la interfaz es compleja para un usuario novato.,True,3.25
+phi3,Consola de Videojuegos,Positivo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""resesina"": ""La calidad impresionante, la variedad y excelencia en el rendimiento han transformado mi tiempo libre. Me encantó todo lo que ofrece este consola."",
+    ""sentimiemto"": ""Positivo""
+}",True,3.27
+phi3,Smartphone X,Neutro,"{
+    ""producto"": ""Smartphone X"",
+    ""reseña"": ""El Smartphone X tiene una pantalla con buena luminosidad y un procesador que funciona como se espera. Sin embargo, el diseño es algo similar a otros modelos del mercado."",
+    ""sentimiento"": ""Neutro""
+}",True,3.31
+phi3,Laptop Pro,Negativo,"El Laptop Pro se sobrecalentaba rápidamente, el sonido del teclado es inaudible y la batería no dura más de una hora.",True,3.19
+phi3,Auriculares Inalámbricos,Positivo,"Los auriculares inalámbricos son increíbles. Son cómodos, libres de cable y ofrecen una amplia gama de estilos para escoger.",True,3.28
+phi3,Smart TV 4K,Neutro,"{
+    ""producto"": ""Smart TV 4K"",
+    ""reseña"": ""El Smart TV 4K es un aparato que funciona bien. La pantalla brinda una vista clara y el sistema de navegación es intuitivo."",
+    ""sentimiento"": ""Neutro""
+}",True,3.24
+phi3,Consola de Videojuegos,Negativo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""reseña"": ""La consola es frágil, el rendimiento es lento y los juegos se congelan constantemente. La experiencia ha sido horrible desde un principio."",
+    ""sentido"": ""Negativo""
+}",True,3.22
+phi3,Smartphone X,Positivo,"La experiencia con el Smartphone X ha sido maravillosa. Mejores características, excelente calidad visual y un rendimiento excepcional en juegos.",True,3.21
+phi3,Laptop Pro,Neutro,"{
+    ""producto"": ""Laptop Pro"",
+    ""resesina"": ""El Laptop Pro es confiable, tiene una batería que dura todo el día y un sistema operativo rápido. El teclado es cómodo de usar."",
+    ""sentimiento"": ""Neutro""
+}",True,3.27
+phi3,Auriculares Inalámbricos,Negativo,"Los auriculares no cargan con el módulo inalámbrico y, cuando funcionaban, la batería se agotaba rápidamente. Además, los sonidos tenían demasiado ruido de fondo.",True,3.49
+phi3,Smart TV 4K,Positivo,"Esta es la mejor compra que he hecho en años. La imagen y sonido inolvidables, muy intuitiva para navegar por aplicaciones.",True,3.23
+phi3,Consola de Videojuegos,Neutro,"La consola es fácilmente operable y funciona bien. Sin embargo, las opciones en la tienda son limitadas.",True,3.12
+phi3,Smartphone X,Negativo,"El Smartphone X ha sido una experiencia decepcionante. El dispositivo se siente frágil y el rendimiento es muy pobre, sobre todo cuando intentamos cargarlo.",True,3.3
+phi3,Laptop Pro,Positivo,"{
+    ""producto"": ""Laptop Pro"",
+    ""resesna"": ""La transición al nuevo Laptop Pro ha sido excepcional. Su rendimiento supera mis expectativas y su diseño es impecable."",
+    ""sentimento"": ""Positivo""
+}",True,3.16
+phi3,Auriculares Inalámbricos,Neutro,Los auriculares son portátiles y tienen una batería autónoma que dura mucho tiempo.,True,3.12
+phi3,Smart TV 4K,Negativo,"El Smart TV 4K es una letana maquillación. La pantalla fija en su lugar y la batería no dura más de un día con apenas uso mínimo, además del sonido que casi se escucha como bajo.",True,3.51
+phi3,Consola de Videojuegos,Positivo,"La experiencia con esta consola es increíble, ofrece una inmersión sin parangón en cada título. La duración y el sonido han mejorado enormemente.",True,3.27
+phi3,Smartphone X,Neutro,"{
+    ""producto"": ""Smartphone X"",
+    ""resesina"": ""El Smartphone X tiene una interfaz intuitiva y funciona como se esperaba. No sobresalieron ni destacaron cosas específicas para mí, pero sirve su propósito."",
+    ""sentimiento"": ""Neutro""
+}",True,3.31
+phi3,Laptop Pro,Negativo,"{
+    ""producto"": ""Laptop Pro"",
+    ""reseña"": ""El laptop no dura más de dos horas sin congelarse, y el teclado es frágil. No recomendaría este producto a nadie."",
+    ""sentimiento"": ""Negativo""
+}",True,3.21
+phi3,Auriculares Inalámbricos,Positivo,"Los auriculares son fantásticos: claridad envolvente, conexión ininterrumpida y amplia gama de música que nunca antes pude disfrutar.",True,3.34
+phi3,Smart TV 4K,Neutro,"{
+    ""producto"": ""Smart TV 4K"",
+    ""resenanda"": ""El Smart TV 4K es fácil de configurar y funciona adecuadamente. La resolución alta me permite ver imágenes nítidas, pero la interfaz no parece estar actualizada para las últimas tendencias en cuanto a usabilidad."",
+    ""sentimiento"": ""Neutro""
+}",True,3.59
+phi3,Consola de Videojuegos,Negativo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""resesen"": ""La consola se sobrecalienta rápidamente y los juegos no son tan divertidos como suenan. El retraso en el audio es desagradable, lo que reduce significativamente la experiencia."",
+    ""sentimiento"": ""Negativo""
+}",True,3.43
+phi3,Smartphone X,Positivo,"La calidad del Smartphone X es impresionante, con una pantalla de alta resolución y un rendimiento fluido. La duración de la batería mejora mi experiencia al salir todo el día sin preocupaciones sobre recargas.",True,3.54
+phi3,Laptop Pro,Neutro,"{
+    ""producto"": ""Laptop Pro"",
+    ""resenica"": ""El Laptop Pro cubre todos los estándares requeridos de portabilidad y desempeño. No posee ninguna característica que me haya sorprendido, ni alguna deficiencia notable."",
+    ""sentimiento"": ""Neutro""
+}",True,3.39
+phi3,Auriculares Inalámbricos,Negativo,Los auriculares inalámbricos tienen una conectividad frágil que a menudo me corta la música. La batería es efímera y no dura lo suficiente como para disfrutar de un buen viaje.,True,3.59
+phi3,Smart TV 4K,Positivo,"La imagen y claridad son inolvidables. Eso hace la diferencia de una pantalla regular para mí, disfruto viendo mis películas favoritas en alta definición.",True,3.34
+phi3,Consola de Videojuegos,Neutro,La consola cumplió con mis expectativas en cuanto a rendimiento y compatibilidad. La experiencia fue satisfactoria pero también bastante ordinaria.,True,3.24
+phi3,Smartphone X,Negativo,"{
+    ""producto"": ""Smartphone X"",
+    ""reseña"": ""El Smartphone X tiene una cámara de baja calidad, la pantalla es difícil de leer y el rendimiento disminuye rápidamente. Totalmente decepciona."",
+    ""sentimiento"": ""Negativo""
+}",True,3.35
+phi3,Laptop Pro,Positivo,"{
+    ""producto"": ""Laptop Pro"",
+    ""reseña"": ""Este Laptop Pro ha sido una adición fantástica a mi oficina. Su velocidad y calidad de sonido superan todas mis expectativas."",
+    ""sentimiento"": ""Positivo""
+}",True,3.21
+phi3,Auriculares Inalámbricos,Neutro,"Los auriculares son cómodos y funcionan bien con mis dispositivos, sin embargo, la configuración inicial para activarlos fue complicada.",True,3.28
+phi3,Smart TV 4K,Negativo,"El Smart TV 4K es un desastre. La pantalla tiene manchas y el sistema operativo está lento, lo que hace imposible disfrutar de la experiencia esperada.",True,3.32
+phi3,Consola de Videojuegos,Positivo,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""resesina"": ""La experiencia con la consola es maravillosa. La jugabilidad se siente sin comparación y cada juego me sumerge en mundos impresionantes."",
+    ""sentimiento"": ""Positivo""
+}",True,3.32
+phi3,Smartphone X,Neutro,"{
+    ""producto"": ""Smartphone X"",
+    ""resesina"": ""El Smartphone X es un aparato funcional. Tiene la velocidad deseada para navegar por aplicaciones y cargar videos, aunque el almacenamiento interno no ha superado mis expectativas."",
+    ""sentimiento"": ""Neutro""
+}",True,3.57
+phi3,Laptop Pro,Negativo,"Sentí mi dolor de cabeza cuando descubrí que el rendimiento era insuficiente para mis necesidades, y la duración del tiempo en línea bajaba rápidamente. La pantalla también se salió fácilmente.",True,3.47
+phi3,Auriculares Inalámbricos,Positivo,Los auriculares son inolvidables por su comodidad y calidad del sonido. Un gran compra para cualquiera que los use.,True,3.28
+phi3,Smart TV 4K,Neutro,"{
+    ""producto"": ""Smart TV 4K"",
+    ""reseña"": ""El Smart TV 4K es fácil de conectar y navegar, ofreciendo un amplio catálogo de contenido. Las imágenes son nítidas pero la interfaz no siempre es intuitiva."",
+    ""sentimiento"": ""Neutro""
+}",True,3.44
+phi3,Consola de Videojuegos,Negativo,"La calidad del sonido es inaceptable y los gráficos antiguos, además la consola se sobrecalienta rápidamente.",True,3.21
+phi3,Smartphone X,Positivo,"{
+    ""producto"": ""Smartphone X"",
+    ""resesina"": ""El Smartphone X ha sido un gran aporte en mi vida. Su pantalla brilla, su sistema operativo es inteligente y el rendimiento de la tarjeta gráfica nunca me falta."",
+    ""sentimiento"": ""Positivo""
+}",True,3.37
+phi3,Laptop Pro,Neutro,"{
+   ""producto"": ""Laptop Pro"",
+   ""reseña"": ""El Laptop Pro ofrece un rendimiento de CPU adecuado para el uso diario, con una pantalla aceptable y gráficos decentes. No sobresalieron aspectos excepcionales ni desagradables."",
+   ""sentimiento"": ""Neutro""
+}",True,3.46
+phi3,Auriculares Inalámbricos,Negativo,Los auriculares no estaban hechos para durar. Se desconectaron después de un par de usos y el sonido era terrible.,True,3.19
+phi3,Smart TV 4K,Positivo,"La transición a casa de Smart TV 4K fue magnífica. La claridad impresionante y la calidad del sonido superan mis expectativas, haciendo que cada momento en pantalla sea una inmersión total.",True,3.49
+phi3,Consola de Videojuegos,Neutro,"{
+    ""producto"": ""Consola de Videojuegos"",
+    ""reseña"": ""La experiencia con la consola ha sido satisfactoria. Disfruto los juegos y el sonido."",
+    ""sentimiento"": ""Neutro""
+}",True,3.07
+phi3,Smartphone X,Negativo,El Smartphone X es un fiasco desde el primer momento. El teléfono se sobrecalienta fácilmente y la pantalla no responde a los toques con rapidez ni eficiencia.,True,3.38
+phi3,Laptop Pro,Positivo,"Me encantó el Laptop Pro. Es rápido, dura mucho tiempo y la pantalla es increíblemente nítida.",True,3.11
+phi3,Auriculares Inalámbricos,Neutro,Los auriculares son cómodos y conectan sin problemas al dispositivo. La batería dura todo el día.,True,3.15
+phi3,Smart TV 4K,Negativo,El Smart TV 4K tiene una pantalla deslucida y el sistema operativo es complicado de usar. No recomiendo este producto.,True,3.22
+phi3,Consola de Videojuegos,Positivo,"La nueva consola me ha transformado completamente mi experiencia de juego. Con su velocidad y calidad impresionante, realmente no puedo esperar para empezar a jugar mis juegos favoritos con una mejor resolución.",True,3.43
+mistral,Smartphone X,Positivo,"Excelente rendimiento, diseño moderno y fácil de usar.",True,13.11
+mistral,Laptop Pro,Neutro,Functionality meets portability. Adequate performance for daily tasks.,True,4.53
+mistral,Auriculares Inalámbricos,Negativo,Fallo constante y calidad de sonido débil,True,4.72
+mistral,Smart TV 4K,Positivo,Excelente calidad visual y fácil de usar. La experiencia de streaming es un placer.,True,5.01
+mistral,Consola de Videojuegos,Neutro,"Dispositivo funciona como esperado, sin problemas significativos de rendimiento.",True,4.9
+mistral,Smartphone X,Negativo,Debilidad en la batería y problemas de calidad de imagen,True,4.48
+mistral,Laptop Pro,Positivo,Excelente rendimiento y diseño moderno. Tarea productiva y entretenimiento superiores.,True,4.64
+mistral,Auriculares Inalámbricos,Neutro,"Calidad del sonido decente, conexión inalámbrica estable. Diseño y comodidad satisfactoria.",True,5.12
+mistral,Smart TV 4K,Negativo,"Fallo continuo en el software, mala calidad de imagen y problemas con la sincronización del sonido.",True,4.85
+mistral,Consola de Videojuegos,Positivo,"Excelente diseño, fácil de usar y una gran variedad de juegos disponibles. ¡Muy satisfactorio!",True,4.89
+mistral,Smartphone X,Neutro,"La pantalla es vibrante y el procesamiento rápido, pero la batería dura menos de lo esperado.",True,4.87
+mistral,Laptop Pro,Negativo,"Satisfacción mínima, rendimiento débil y fallas persistentes en la conexión Wi-Fi",True,4.76
+mistral,Auriculares Inalámbricos,Positivo,"Excelentes auriculares inalámbricos de calidad superior. Son cómodos, su sonido es claro y su conexión está estable. Recomendado!",True,5.67
+mistral,Smart TV 4K,Neutro,"Pantalla de alta resolución y conexiones inalámbricas sólidas, pero a veces requiere actualizaciones del sistema.",True,5.16
+mistral,Consola de Videojuegos,Negativo,"Experiencia desalentadora, fallos constantes y tiempo de carga excesivo.",True,4.68
+mistral,Smartphone X,Positivo,"Excelente rendimiento, diseño elegante y una gran batería. Muy satisfecho.",True,4.74
+mistral,Laptop Pro,Neutro,"El rendimiento es adecuado, pero el peso puede ser un desafío en viajes extensos.",True,4.74
+mistral,Auriculares Inalámbricos,Negativo,"Muy desafortunadamente, el sonido no es lo suficientemente claro y tengo problemas de conexión frecuentes.",True,5.36
+mistral,Smart TV 4K,Positivo,"Por supuesto, la calidad visual en 4K es impresionante y la funcionalidad inteligente hace que sea muy fácil de usar. Recomiendo!",True,5.49
+mistral,Consola de Videojuegos,Neutro,"Funciona como esperado, con algunas características aún por descubrir.",True,4.63
+mistral,Smartphone X,Negativo,Muy decepcionante rendimiento y falta de durabilidad.,True,4.35
+mistral,Laptop Pro,Positivo,"Efectividad impresionante, rendimiento extraordinario y diseño elegánte. Perfecta para mi uso diario.",True,4.64
+mistral,Auriculares Inalámbricos,Neutro,"Buena calidad de sonido y comodidad, conectividad estable pero hay algunos retos de par en el inicio.",True,5.22
+mistral,Smart TV 4K,Negativo,"Navegación lenta y aplicaciones menos precisas, experiencia de uso frustrante",True,4.67
+mistral,Consola de Videojuegos,Positivo,"Excelente experiencia de juego, gráficos increíbles y control muy intuitivo.",True,4.53
+mistral,Smartphone X,Neutro,"Funciona como se esperaba, sin sorprenderme demasiado positivamente ni negativamente.",True,4.64
+mistral,Laptop Pro,Negativo,"Frecuentes fallas y lentitud inaceptable, no recomendable",True,4.55
+mistral,Auriculares Inalámbricos,Positivo,"Excelentes auriculares inalámbricos de alta calidad. Son cómodos, tienen buena conexión y el sonido es incríble.",True,5.54
+mistral,Smart TV 4K,Neutro,"Calidad visual excelente y fácil de usar, pero aún estoy aprendiendo sus funciones avanzadas.",True,4.99
+mistral,Consola de Videojuegos,Negativo,Falla constantemente y la calidad del juego es decepcionante,True,4.53
+mistral,Smartphone X,Positivo,"Excelente calidad, diseño ergonomico y rendimiento sobresaliente. Único experiencia de uso.",True,4.81
+mistral,Laptop Pro,Neutro,"Performancia y diseño aceptables, sin embargo experimento algunos problemas de conectividad y calidad de audio.",True,4.85
+mistral,Auriculares Inalámbricos,Negativo,"Deplorable calidad de sonido, falta de conexión constante y batería que se agota demasiado rápido.",True,5.21
+mistral,Smart TV 4K,Positivo,"Picture quality is stunning, user interface intuitive and smooth. Overall, a fantastic purchase!",True,4.6
+mistral,Consola de Videojuegos,Neutro,"Funciona correctamente, la interfaz es intuitiva. Experiencia general positiva.",True,4.72
+mistral,Smartphone X,Negativo,"Inestable software, baja durabilidad y calidad de pantalla desigual. No me ha sido un gran ajetreo.",True,4.89
+mistral,Laptop Pro,Positivo,"Potente, rápido y de fácil manejo. Una adquisición recomendable.",True,4.47
+mistral,Auriculares Inalámbricos,Neutro,"El uso de los auriculares inalámbricos ha sido confiable y sin problemas. La calidad del sonido es aceptable, pero no excelente.",True,5.46
+mistral,Smart TV 4K,Negativo,Tecnología impresionante pero software deficiente y actualizaciones esporádicas,True,4.64
+mistral,Consola de Videojuegos,Positivo,"Excelente calidad, gran variedad de juegos y excelente experiencia de juego.",True,4.74
+mistral,Smartphone X,Neutro,"Pantalla de alta definición, rendimiento consistente, carga lenta. Experiencia generalmente neutra.",True,4.8
+mistral,Laptop Pro,Negativo,"Fallo continuo en el sistema, velocidad lenta y calidad de pantalla pobre.",True,4.52
+mistral,Auriculares Inalámbricos,Positivo,"Excelentes auriculares inalámbricos de alta calidad. Son cómodos y tienen una conexión estable, el sonido es claro y puro.",True,5.29
+mistral,Smart TV 4K,Neutro,"Calidad de imagen impresionante, sin embargo, a menudo se presentan problemas de conexión y la interfaz puede resultar complicada de usar.",True,5.29
+mistral,Consola de Videojuegos,Negativo,"Fallo continúo después de la primera hora de uso, soporte técnico inexistente",True,4.75
+mistral,Smartphone X,Positivo,"Outstanding performance, sleek design and user-friendly interface. Highly recommended!",True,4.63
+mistral,Laptop Pro,Neutro,"Funciona según lo esperado, sin problemas significativos. Balancea rendimiento y portabilidad satisfactoriamente.",True,4.84
+mistral,Auriculares Inalámbricos,Negativo,Fallo constante y calidad de sonido desaparecida después de pocos días de uso.,True,4.84
+mistral,Smart TV 4K,Positivo,"Películas y series en alta definición son un placer visual, compatibilidad con varias aplicaciones y una interfaz intuitiva me impresionan positivamente.",True,5.39
+mistral,Consola de Videojuegos,Neutro,"Experiencia generalmente satisfactoria. Control y calidad visual aceptables. Juegos varios, algunos interesantes.",True,5.01
+mistral,Smartphone X,Negativo,"Navegación lenta y batería pobre, desilusionado con la compra",True,4.54
+mistral,Laptop Pro,Positivo,"Increíble velocidad y eficiencia, mejor elegida para el trabajo diario.",True,4.61
+mistral,Auriculares Inalámbricos,Neutro,"Calidad del sonido aceptable, conexión inalámbrica estable y diseño ergonómico. Sin embargo, la duración de la batería es relativamente corta.",True,5.62
+mistral,Smart TV 4K,Negativo,"Pésimo rendimiento, inestabilidad y software lento.",True,4.38
+mistral,Consola de Videojuegos,Positivo,El nivel de detalle y la calidad de los juegos son impresionantes. Una experiencia de juego sin paralelos.,True,5.12
+mistral,Smartphone X,Neutro,"Efectivo para navegar, fotografía y comunicación. Sin embargo, la durabilidad a largo plazo es una preocupación.",True,5.09
+mistral,Laptop Pro,Negativo,Performance lento y batería que se agota muy rápidamente.,True,4.13
+mistral,Auriculares Inalámbricos,Positivo,"Excelentes auriculares de alta calidad, son cómodos y el sonido es impactante. ¡Todo esto sin cables para agraviarnos!",True,5.57
+mistral,Smart TV 4K,Neutro,"Pantalla de alta resolución, fácil de usar y con una calidad de sonido aceptable. Sin embargo, presenta algunos retos en el sistema operativo.",True,5.42
+mistral,Consola de Videojuegos,Negativo,"Fallo continua después de solo una semana de uso, soporte técnico ineficaz.",True,4.67
+mistral,Smartphone X,Positivo,"Excelente rendimiento, diseño ergonómico y cámara de calidad superior. Recomendado.",True,4.47
+mistral,Laptop Pro,Neutro,"Performance satisfactoria, portátil y adecuado para la mayoría de las tareas diarias.",True,4.76
+mistral,Auriculares Inalámbricos,Negativo,"Bajo rendimiento y falta de durabilidad, no recomendados",True,4.64
+mistral,Smart TV 4K,Positivo,"Excelente calidad de imagen, fácil de usar y rica en funcionalidades.",True,4.99
+mistral,Consola de Videojuegos,Neutro,"Experiencia de uso equilibrada, no demasiado impresionante pero tampoco deficiente.",True,5.33
+mistral,Smartphone X,Negativo,Disco duro fallido en minutos de uso. Muy desilusionado.,True,4.84
+mistral,Laptop Pro,Positivo,"Excelente rendimiento, diseño moderno y portátil. Tarea productiva y juegos más que satisface!",True,5.37
+mistral,Auriculares Inalámbricos,Neutro,"Calidad sonora aceptable, diseño ergonómico y comodidad confortables. Sin embargo, la conexión Bluetooth puede ser intermitente.",True,5.95
+mistral,Smart TV 4K,Negativo,Muy decepcionante. Menos calidad de imagen que esperaba y la interfaz es complicada de usar.,True,5.39
+mistral,Consola de Videojuegos,Positivo,"Excelente diseño ergonómico, rendimiento superior y una gran variedad de juegos disponibles. ¡Gran compra!",True,5.64
+mistral,Smartphone X,Neutro,"Funciona bien, con una interfaz intuitiva y un buen rendimiento. Sin embargo, la cámara no es la mejor en su categoría.",True,5.29
+mistral,Laptop Pro,Negativo,"Sufro inexplicable frustración al trabajar con este equipo, la velocidad y rendimiento son insatisfactorios.",True,5.27
+mistral,Auriculares Inalámbricos,Positivo,Excelentes auriculares inalámbricos de alta calidad que ofrecen una experiencia de audio nítida y profunda. El ajuste es cómodo y el tiempo de carga corto hace que sean fáciles de utilizar todos los días.,True,7.16
+mistral,Smart TV 4K,Neutro,"Pantalla de alta calidad, fácil de configurar. Sin embargo, la interfaz puede requerir algunas mejoras.",True,5.62
+mistral,Consola de Videojuegos,Negativo,Fallo constante en la conexión a internet y el software no es compatible con muchos juegos favoritos.,True,5.32
+mistral,Smartphone X,Positivo,"Excelente rendimiento, diseño elegante y cámara sofisticada. Me encanta!",True,5.17
+mistral,Laptop Pro,Neutro,"Funciona como se esperaba, sin problemas notables",True,4.66
+mistral,Auriculares Inalámbricos,Negativo,Fallo continuo en la conexión y calidad del sonido desaparecida.,True,5.21
+mistral,Smart TV 4K,Positivo,La experiencia de uso ha sido impresionante. La calidad de imagen en 4K es espectacular y la interfaz del sistema operativo está fácil de navegar.,True,5.96
+mistral,Consola de Videojuegos,Neutro,"Funciona correctamente, aún no he probado muchos juegos.",True,4.98
+mistral,Smartphone X,Negativo,"Deficiente rendimiento y baja durabilidad, no recomiendo.",True,4.75
+mistral,Laptop Pro,Positivo,"Excelente rendimiento, diseño moderno y eficiente. Recomendado!",True,4.58
+mistral,Auriculares Inalámbricos,Neutro,Experiencia de uso neutral. Son cómodos y funcionan correctamente.,True,4.98
+mistral,Smart TV 4K,Negativo,"Muy decepcionante, funciona mal y es complicado de usar.",True,4.74
+mistral,Consola de Videojuegos,Positivo,Sensacional experiencia de juego con una interfaz intuitiva y gráficos impresionantes.,True,5.09
+mistral,Smartphone X,Neutro,"Equipo de puntos y maniobras suaves, sin embargo, la batería se agota rápidamente.",True,5.15
+mistral,Laptop Pro,Negativo,"Tiene un rendimiento decepcionante y la durabilidad es pobre, no recomendable.",True,4.87
+mistral,Auriculares Inalámbricos,Positivo,Excelentes auriculares inalámbricos con calidad de sonido superior y comodidad adecuada. La conexión Bluetooth es fiable y la duración de la batería es impresionante.,True,6.33
+mistral,Smart TV 4K,Neutro,"Calidad de imagen excelente, intuitivo sistema operativo y conexión wifi estable. Aun así, necesito más tiempo para evaluar las características avanzadas.",True,5.81
+mistral,Consola de Videojuegos,Negativo,Fallo en la unidad principal después de solo una semana de uso. No recomiendo.,True,4.72
+mistral,Smartphone X,Positivo,"Excelente calidad, rápido y efectivo, pantalla brillante y carga rápida. Definitivamente un producto recomendable.",True,5.51
+mistral,Laptop Pro,Neutro,"Performancia satisfactoria, pero la batería se agota rápidamente.",True,4.81
+mistral,Auriculares Inalámbricos,Negativo,"Calidad de sonido aburrida, conexión inestable y duración de la batería insatisfactoria.",True,5.39
+mistral,Smart TV 4K,Positivo,"Imagenes espectaculares y fácil de usar, disfruto mucho la experiencia",True,4.81
+mistral,Consola de Videojuegos,Neutro,"Experiencia mixta. Algunos juegos funcionan correctamente, otros presentan problemas. La interfaz es intuitiva.",True,5.38
+mistral,Smartphone X,Negativo,"Atraso y mal rendimiento, desilusionante",True,4.48
+mistral,Laptop Pro,Positivo,"Excelente rendimiento, diseño atractivo y veloz. Excede expectativas!",True,4.93
+mistral,Auriculares Inalámbricos,Neutro,"Calidad de sonido aceptable, conexión inalámbrica estable y autonomía suficiente. Ajuste del volumen puede ser mejor.",True,5.76
+mistral,Smart TV 4K,Negativo,"Conectividad intermitente, software lento y calidad de imagen desafortunada. Muy decepcionado.",True,4.95
+mistral,Consola de Videojuegos,Positivo,Espectacular experiencia de juego con una gran calidad visual y sonora. Muy divertido y fácil de utilizar.,True,5.36
